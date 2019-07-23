@@ -6,6 +6,7 @@
   <component name="CidrRootsConfiguration">
     <sourceRoots>
       <file path="$PROJECT_DIR$/Lab01" />
+      <file path="$PROJECT_DIR$/Lab02" />
     </sourceRoots>
   </component>
   <component name="JavaScriptSettings">
