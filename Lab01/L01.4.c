@@ -40,6 +40,8 @@ int main(int argc, char **argv) {
 
             printf("Total sum: %d\n", sum);
             break;
+        default:
+            break;
     }
 
     MPI_Finalize();
