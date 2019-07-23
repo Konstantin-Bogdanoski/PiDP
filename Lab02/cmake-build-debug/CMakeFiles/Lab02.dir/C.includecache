@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/k-bogdanoski/CLionProjects/Lab02/L02.1.c
+mpi/mpi.h
+-
+stdio.h
+-
+string.h
+-
+
