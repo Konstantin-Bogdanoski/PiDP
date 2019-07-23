@@ -7,6 +7,7 @@
     <sourceRoots>
       <file path="$PROJECT_DIR$/Lab01" />
       <file path="$PROJECT_DIR$/Lab02" />
+      <file path="$PROJECT_DIR$/Lab03" />
     </sourceRoots>
   </component>
   <component name="JavaScriptSettings">

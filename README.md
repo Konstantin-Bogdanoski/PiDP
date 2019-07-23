@@ -5,6 +5,6 @@
 
 Повеќе информации на wiki-то!
 
-> In this reposetory you will find the Homework tasks and Laboratory exercises for the subject Parallel and Distributed Processing, from the Faculty of Computer Science and Engineering.
+> In this repository you will find the Homework tasks and Laboratory exercises for the subject Parallel and Distributed Processing, from the Faculty of Computer Science and Engineering.
 
 > For more information, check out the wiki!
